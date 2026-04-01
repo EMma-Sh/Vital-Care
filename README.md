@@ -74,7 +74,7 @@ Bash
 download
 content_copy
 expand_less
-git clone https://github.com/yourusername/vitalis-orange.git
+git clone https://github.com/EMma-SH/vitalis-orange.git
 
 Open:
 Launch index.html in any modern browser (Chrome, Safari, Edge).
