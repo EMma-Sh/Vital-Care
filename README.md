@@ -1,5 +1,3 @@
-This is a professional README.md file specifically updated for the Orange Vitality color scheme used in your Health/Medical website.
-
 🍊 VitalisCare - Wellness & Health Portal
 
 VitalisCare is a premium, high-performance medical landing page designed with a focus on Vitality, Warmth, and Energy. By moving away from traditional "cold" clinical blues, this project uses a high-converting Orange & Amber palette to represent holistic wellness, energy, and approachable healthcare.
