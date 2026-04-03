@@ -88,4 +88,4 @@ This project was engineered by RAM RANKERS to maximize lead generation for healt
 
 If you need to connect this to a backend (like a CRM or email system), or if you need to add more medical specialties, feel free to contact the development team.
 
-© 2024 Vitalis Healthcare Network. Powered by RAM RANKERS.
+© 2024 Vitalis Healthcare Network. Powered by EMAN IQBAL.
